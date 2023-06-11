@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#, SQL**
 
-- 👨‍💻 All of my projects are available at [[https://www.xn--zeynepieri-k9b.com.tr](http://zeynepiseri.epizy.com/)]
+- 👨‍💻 All of my projects are available at [[http://zeynepiseri.epizy.com/](http://zeynepiseri.epizy.com/)]
 
 - 💬 Ask me about **HTML,CSS,C#**
 
