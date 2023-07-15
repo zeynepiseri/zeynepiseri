@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepiseri&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepiseri" /> </p>
 
-- 🌱 I’m currently learning **C#, SQL**
+- 🌱 I’m currently learning **JAVASCRIPT, PYTHON**
 
 - 👨‍💻 All of my projects are available at [[http://zeynepiseri.epizy.com/](http://zeynepiseri.epizy.com/)]
 
-- 💬 Ask me about **HTML,CSS,C#**
+- 💬 Ask me about **HTML,CSS,C#,SQL**
 
 - 📫 How to reach me **iserizeynep18@gmail.com**
 
