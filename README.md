@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepiseri&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepiseri" /> </p>
 
-- 🌱 I’m currently learning **FLUTTER, DART, PYTHON**
+- 🌱 I’m currently learning **FLUTTER, DART**
 
 - 👨‍💻 All of my projects are available at [[http://zeynepiseri.epizy.com/](http://zeynepiseri.epizy.com/)]
 
