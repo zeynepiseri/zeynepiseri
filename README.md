@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zeynep İşeri</h1>
-<h3 align="center">Software Developer</h3>
+  <h3 align="center">Flutter Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepiseri&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepiseri" /> </p>
 
-- 🌱 I’m currently learning **FLUTTER, DART**
-
 - 👨‍💻 All of my projects are available at [[http://zeynepiseri.epizy.com/](http://zeynepiseri.epizy.com/)]
 
-- 💬 Ask me about **HTML,CSS,C#,SQL**
+- 💬 Ask me about **FLUTTER, DART**
 
 - 📫 How to reach me **iserizeynep18@gmail.com**
 
