@@ -4,9 +4,10 @@
 
 > *Bridging the gap between Enterprise Architecture and Creative Product Development.*
 
-I am a Software Engineer specialized in the **Java** and **Dart** ecosystems, capable of managing the full software lifecycle from database optimization to pixel-perfect UI rendering.
+I am a Software Developer specialized in the **Java** and **Dart** ecosystems, capable of managing the full software lifecycle from database optimization to pixel-perfect UI rendering.
 
-Currently, I am demonstrating this duality through two key projects: **Lumina Medical Center**, where I architect scalable microservices using **Spring Boot** and Docker; and **Füreya Poetry**, a consumer-facing mobile application where I focus on advanced **Flutter** UI patterns and the Google Play release lifecycle. My goal is simple: to build secure, maintainable backend systems that power seamless, high-fidelity mobile experiences.
+Currently, I am demonstrating this duality through two key projects: **Lumina Medical Center**, where I architect scalable microservices using **Spring Boot** and Docker; and **Füreya Poetry**, a consumer-facing mobile application where I focus on advanced **Flutter** UI patterns and the Google Play release lifecycle. 
+My goal is simple: to build secure, maintainable backend systems that power seamless, high-fidelity mobile experiences.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zeynep-i%C5%9Feri-368402249/" target="_blank">
