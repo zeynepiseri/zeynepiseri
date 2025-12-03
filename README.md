@@ -1,6 +1,6 @@
 # Hello 👋, I'm Zeynep İşeri
 
-### Software Developer | Flutter & Spring Boot Specialist
+### Software Engineer | Flutter & Spring Boot Specialist
 
 > *Bridging the gap between Enterprise Architecture and Creative Product Development.*
 
@@ -42,5 +42,3 @@ Currently, I am demonstrating this duality through two key projects: **Lumina**,
 *A sophisticated poetry application utilizing Firebase backend.*
 * **Focus:** High-performance UI rendering and user-centric design patterns.
 * **Status:** Preparing for Google Play release.
-
-
