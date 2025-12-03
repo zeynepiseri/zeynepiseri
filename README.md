@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Zeynep İşeri</h1>
-  <h3 align="center">Flutter Developer</h3>
+# Hello 👋, I'm Zeynep İşeri
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"></img>
+### Software Developer | Flutter & Spring Boot Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepiseri&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepiseri" /> </p>
+> *Bridging the gap between Enterprise Architecture and Creative Product Development.*
 
-- 👨‍💻 All of my projects are available at [[http://zeynepiseri.epizy.com/](http://zeynepiseri.epizy.com/)]
+I am a Software Engineer specialized in the **Java** and **Dart** ecosystems, capable of managing the full software lifecycle from database optimization to pixel-perfect UI rendering.
 
-- 💬 Ask me about **FLUTTER, DART**
+Currently, I am demonstrating this duality through two key projects: **Lumina**, where I architect scalable microservices using **Spring Boot** and Docker; and **Füreya**, a consumer-facing mobile application where I focus on advanced **Flutter** UI patterns and the Google Play release lifecycle. My goal is simple: to build secure, maintainable backend systems that power seamless, high-fidelity mobile experiences.
 
-- 📫 How to reach me **iserizeynep18@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynep-i%c5%9feri-368402249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep-i%c5%9feri-368402249" height="30" width="40" /></a>
-<a href="https://instagram.com/zeynepiiserii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeynepiiserii" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zeynep-i%C5%9Feri-368402249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
+### 🛠 Skills & Technologies
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepiseri&show_icons=true&locale=en&layout=compact" alt="zeynepiseri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepiseri&show_icons=true&locale=en" alt="zeynepiseri" /></p>
+### 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepiseri&" alt="zeynepiseri" /></p>
+#### 1. Lumina (Active Development)
+*A Global Doctor Appointment System engineered for scalability.*
+* **Architecture:** Full-stack implementation using Flutter (Frontend) and Spring Boot (Backend).
+* **Key Features:** Dockerized environment, secure JWT authentication, strict DTO/Entity mapping, and complex asynchronous event handling.
+* **Goal:** Demonstrating production-ready code standards.
+
+#### 2. Füreya
+*A sophisticated poetry application utilizing Firebase backend.*
+* **Focus:** High-performance UI rendering and user-centric design patterns.
+* **Status:** Preparing for Google Play release.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepiseri&show_icons=true&count_private=true&theme=radical" height="160" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepiseri&layout=compact&theme=radical&hide=c%23,html,css,jupyter%20notebook" height="160" alt="En Çok Kullanılan Diller" />
+</div>
