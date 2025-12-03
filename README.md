@@ -43,11 +43,4 @@ Currently, I am demonstrating this duality through two key projects: **Lumina**,
 * **Focus:** High-performance UI rendering and user-centric design patterns.
 * **Status:** Preparing for Google Play release.
 
----
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepiseri&show_icons=true&count_private=true&theme=radical" height="160" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepiseri&layout=compact&theme=radical&hide=c%23,html,css,jupyter%20notebook" height="160" alt="En Çok Kullanılan Diller" />
-</div>
